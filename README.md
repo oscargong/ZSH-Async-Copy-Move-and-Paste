@@ -1,4 +1,4 @@
-# ZSH-Async-Copy-Move-and-Paste
+# ZSH Async Copy Move and Paste
 
 ```zsh
 # async copy
